@@ -1,0 +1,181 @@
+#body{
+   # background: #EEEEEE
+    
+#}
+
+
+blockquote{
+  background: #EEEEEE;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+/*h1{
+  font-family: "Perpetua", Times, serif;
+  font-size: 80px;
+  font-weight: 900;
+  color:#FFFFFF;
+}
+
+
+p {
+  font-family: "Verdana", Georgia, Serif;
+  font-size: 16px;
+  color:#FFFFFF;
+
+}*/
+
+
+h1 {
+	font-family: 'Lobster', Georgia, Times, serif;
+	font-size: 70px;
+	line-height: 100px;
+	color:#000000;
+}
+
+
+h3{
+	font-family: 'Lobster', Georgia, Times, serif;
+	font-size: 25px;
+	line-height: 100px;
+	color:#000000;
+	text-align: center;
+
+}
+
+h4{
+	font-family: 'Lobster', Georgia, Times, serif;
+	font-size: 25px;
+	line-height: 100px;
+	color:#000000;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h5{
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	line-height: 25px;
+	color:#000000;
+	text-align: center;
+	font-style: italic;
+}
+
+h6{
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	line-height: 25px;
+	color:#000000;
+	text-align: center;
+	font-style: italic;
+}
+
+h7{
+	font-family: 'Lobster', Georgia, Times, serif;
+	font-size: 60px;
+	line-height: 100px;
+	color:#000000;
+	text-align: center;
+}
+
+ 
+p {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+	color:#000000;
+}
+
+paragraph1 {
+  font-family: "Perpetua", Times, serif;
+  font-size: 30px;
+  color:#000000;
+}
+
+
+p1 {
+  font-family: "Perpetua", Times, serif;
+  font-size: 30px;
+  color:#3B3B3B;
+}
+
+paragraph2{
+  font-family: "Open Sans Condensed";
+  font-size: 28px;
+  color:#000000;
+}
+
+p2{
+  font-family: "Open Sans Condensed";
+  font-size: 28px;
+  color:#3B3B3B;
+}
+
+paragraph3{
+  font-family: "Verdana";
+  font-size: 25px;
+  color:#000000;
+}
+
+p3{
+  font-family: "Verdana";
+  font-size: 25px;
+  color:#3B3B3B;
+}
+
+paragraphdoc{
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+	color:#000000;
+	text-align: center;
+
+}
+
+paragraphdoc2{
+  font-family: "Perpetua", Times, serif;
+  font-size: 24px;
+  color:#1491E2;
+}
+
+paragraphdoc2a{
+  font-family: "Verdana";
+  font-size: 14px;
+  color:#000000;
+
+}
+
+paragraphdoc3{
+  font-family: "Verdana", Times, serif;
+  font-size: 24px;
+  color:#1491E2;
+}
+
+paragraphdoc3a{
+  font-family: "Verdana", Times, serif;
+  font-size: 16px;
+  font-style: italic;
+  color:#000000;
+}
+
+paragraphdoc3b{
+  font-family: "Verdana", Times, serif;
+  font-size: 16px;
+  color:#000000;
+}
+
+paragraphdoc4{
+  font-family: "Verdana", Times, serif;
+  font-size: 16px;
+  font-style: bold;
+  color:#000000;
+}
+
+paragraphdoc4a{
+  font-family: "Verdana", Times, serif;
+  font-size: 16px;
+  font-style: bold;
+  font-style: italic;
+  color:#000000;
+}
+
